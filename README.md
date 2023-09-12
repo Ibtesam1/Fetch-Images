@@ -1,4 +1,4 @@
-# task_beelogix
+# Used GetX state management, dio, cached_network_image and mvc
 
 A new Flutter application.
 
